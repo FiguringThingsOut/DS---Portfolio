@@ -1,3 +1,7 @@
+### Click [Here](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/a5c47f43d71c103851ba9ad5032eb0727e5d2812/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb) for the Notebook
+
+---
+
 ### Table of Contents
 
 - [Description](#description)
