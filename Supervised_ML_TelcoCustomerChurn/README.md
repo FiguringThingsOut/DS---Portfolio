@@ -1,3 +1,7 @@
+### Click [Here](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/a5c47f43d71c103851ba9ad5032eb0727e5d2812/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn%20R1.ipynb) for the Notebook
+
+---
+
 ### Table of Contents
 
 - [Description](#description)
